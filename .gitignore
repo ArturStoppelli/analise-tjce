@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.csv
+*.xlsx
+*.xls
+*.json
+*.xes
+*.pdf
+*.docx
+
+.vscode/
+.ipynb_checkpoints/
+
+# pastas de dados
+justica_estadual/
+justica_federal/
+justica_trabalho/
+justica_militar/
+justica_eleitoral/
+tribunais_superiores/
